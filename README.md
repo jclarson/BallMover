@@ -1,8 +1,6 @@
 # BallMover
 
-# Description
-
-Program to move a div "ball" around an area, changing size and color depending on the direction.
+This is a small JavaScript program to move a div "ball" around an area, changing size and color depending on the direction.
 
 # Installation
 
