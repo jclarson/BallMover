@@ -8,7 +8,7 @@ Program to move a div "ball" around an area, changing size and color depending o
 
 # Installation:
 
-Requires the BallMover.html file and ballMover.js files to be in the same directory.
+Requires the index.html file and ballMover.js files to be in the same directory.
 
 # Usage:
 
